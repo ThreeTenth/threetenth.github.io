@@ -6,9 +6,11 @@
 
 ### 作品/产品
 
-#### [SayNice](https://threetenth.github.io/SayNice/)
+#### SayNice
 
 匿名情感倾诉社区，线上地址：<https://saynice.whoam.xyz>
+
+产品介绍：<https://threetenth.github.io/SayNice/>
 
 GitHub 仓库：<https://github.com/ThreeTenth/SayNice>
 
@@ -24,8 +26,10 @@ GitHub 仓库：<https://github.com/ThreeTenth/SayNice>
 
 这就是 SayNice，我们不管早晚，我们满怀希望。
 
-#### [CyanTeacup](https://threetenth.github.io/CyanTeacup/)
+#### CyanTeacup
 
 查单词背单词(Find words and recite words)，线上地址：未上线
+
+产品介绍：<https://threetenth.github.io/CyanTeacup/>
 
 正在开发中，GitHub 仓库：<https://github.com/ThreeTenth/CyanTeacup>
