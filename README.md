@@ -6,7 +6,7 @@
 
 ### 作品/产品
 
-#### SayNice
+#### [SayNice](https://threetenth.github.io/SayNice/)
 
 匿名情感倾诉社区，线上地址：<https://saynice.whoam.xyz>
 
@@ -24,7 +24,7 @@ GitHub 仓库：<https://github.com/ThreeTenth/SayNice>
 
 这就是 SayNice，我们不管早晚，我们满怀希望。
 
-#### CyanTeacup
+#### [CyanTeacup](https://threetenth.github.io/CyanTeacup/)
 
 查单词背单词(Find words and recite words)，线上地址：未上线
 
